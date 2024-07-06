@@ -26,6 +26,10 @@ Cочетает в себе удобное окно с полем ввода IP-
 - `pyinstaller==6.8.0`
 
 ## Установка
+Скачайте репозиторий вручную или через командную строку
+```bash
+git clone https://github.com/lyintsec/remotron.git
+```
 ### Автоустановка
 - **Windows**: Запустите `install.bat` или `install.ps1`
 - **Linux**: Запустите `install.sh`.
