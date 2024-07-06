@@ -34,6 +34,8 @@ git clone https://github.com/lyintsec/remotron.git
 - **Windows**: Запустите `install.bat` или `install.ps1`
 - **Linux**: Запустите `install.sh`.
 
+**Важно:** Для работы скрипта install в системе должны быть установлены python и pip.
+
 Так же есть возможность установки зависимостей через прокси на Linux.
 
 Для этого запустите `./install.sh --proxy http://<адрес_прокси>:3128`
